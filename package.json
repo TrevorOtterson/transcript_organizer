@@ -1,0 +1,20 @@
+{
+  "name": "askelephant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transcriptReader.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "ts-node transcriptReader.ts"
+  },
+  "author": "Trevor",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.0"
+  }
+}
