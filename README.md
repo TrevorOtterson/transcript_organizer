@@ -36,7 +36,7 @@ Ensure that you have [Node.js](https://nodejs.org/) installed on your machine.
   - `transcript.txt`: Text file containing the original transcript.
   - `updated_transcript.txt`: Output file with the updated transcript.
 - **root/**
-  - `transcriptUpdater.ts`: Main script file.
+  - `transcriptReader.ts`: Main script file.
 
 ## Contributing
 
