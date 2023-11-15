@@ -11,11 +11,11 @@ Ensure that you have [Node.js](https://nodejs.org/) installed on your machine.
 1. **Clone this repository to your local machine:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/trevorotterson/transcript_organizer.git
 
 2. **Navigate to project directory:**
    ```bash
-   cd your-repository
+   cd transcript_organizer
 
 3. **Install dependencies:**
    ```bash
