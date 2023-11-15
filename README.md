@@ -35,6 +35,8 @@ Ensure that you have [Node.js](https://nodejs.org/) installed on your machine.
   - `timeline.json`: JSON file containing timeline data.
   - `transcript.txt`: Text file containing the original transcript.
   - `updated_transcript.txt`: Output file with the updated transcript.
+- **root/**
+  - `transcriptUpdater.ts`: Main script file.
 
 ## Contributing
 
